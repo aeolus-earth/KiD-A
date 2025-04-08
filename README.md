@@ -5,3 +5,5 @@ This is the main repository for the Kinematic Driver model (KiD). This is the ve
 - For information about how to set-up and run the KiD model, please read the [KiD documentation](https://github.com/Adehill/KiD-A/blob/master/docs/KiD_2.3.2625.pdf)
 
 - For details about the intercomparison test-cases and results etc please go the [KiD-A site](https://adehill.github.io/KiD-A/)
+
+- For details about setting up the modules and namelists for the TAU microphysics scheme, see [taubin_install_instructions.txt](https://github.com/aeolus-earth/KiD-A/blob/master/docs/taubin_install_instructions.txt)
