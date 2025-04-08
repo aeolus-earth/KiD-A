@@ -126,6 +126,12 @@ of the TAU scheme in the KiD model.
 
 If you find any problems or have any questions please feel free to contact adrian.hill@metoffice.gov.uk
 
+Changes/fixes from KiD_tau_mphys_2.3.2629.tar.gz to KiD_tau_mphys_2.3.2654.tar.gz (25/05/12)
+--------------------------------------------------------------------------------------------
+
+Some of the diagnostics contain illegal names with speaces with netcdf4. This has been 
+corrected by replacing the spaces with underscores in this version
+
 Changes/fixes from tau_release_1.1.489 to tau_release_2.2.489 (30/04/12)
 ------------------------------------------------------------------------
 
