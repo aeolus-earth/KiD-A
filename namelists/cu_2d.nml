@@ -22,7 +22,7 @@ icase=601
 mphys_scheme='thompson09'
 dt=1.0
 dgstart=0.0
-dg_dt=200.0
+dg_dt=100.0
 tctrl(1)=3600.
 /
 
